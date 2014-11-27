@@ -2,6 +2,10 @@
 
 A bare-bones client for the [Stripe](http://stripe.com) API.
 
+## Installation
+
+```npm install striped```
+
 ## API
 
 ```javascript
