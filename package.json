@@ -1,0 +1,36 @@
+{
+  "name": "striped",
+  "version": "1.0.0",
+  "description": "A bare-bones client for the Stripe API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nicholaswyoung/stripped.git"
+  },
+  "keywords": [
+    "stripe",
+    "stripped",
+    "api",
+    "payments",
+    "subscriptions"
+  ],
+  "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/nicholaswyoung/striped/issues"
+  },
+  "homepage": "https://github.com/nicholaswyoung/striped",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "methods": "^1.1.0",
+    "request": "^2.48.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0",
+    "mocha": "^2.0.1"
+  }
+}
