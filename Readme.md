@@ -1,5 +1,7 @@
 # striped
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/striped.svg)](https://greenkeeper.io/)
+
 A bare-bones client for the [Stripe](http://stripe.com) API.
 
 ## Installation
