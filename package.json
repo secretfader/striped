@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/nicholaswyoung/striped",
   "dependencies": {
-    "bluebird": "^2.3.11",
+    "bluebird": "^3.5.0",
     "methods": "^1.1.0",
     "request": "^2.48.0"
   },
   "devDependencies": {
     "gulp": "^3.8.10",
-    "gulp-mocha": "^2.0.0",
-    "mocha": "^2.0.1"
+    "gulp-mocha": "^4.3.1",
+    "mocha": "^3.5.0"
   }
 }
